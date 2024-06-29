@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (TrabalhoGA.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  Origem.cpp
+C:\Dev\TrabalhoGB\TrabalhoGA\src\Origem.cpp(80,40): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+C:\Dev\TrabalhoGB\TrabalhoGA\src\Origem.cpp(190,60): warning C4267: 'argumento': conversão de 'size_t' para 'GLsizei', possível perda de dados
+C:\Dev\TrabalhoGB\TrabalhoGA\src\Origem.cpp(194,56): warning C4267: 'argumento': conversão de 'size_t' para 'GLsizei', possível perda de dados
+C:\Dev\TrabalhoGB\TrabalhoGA\src\Origem.cpp(200,60): warning C4267: 'argumento': conversão de 'size_t' para 'GLsizei', possível perda de dados
+C:\Dev\TrabalhoGB\TrabalhoGA\src\Origem.cpp(203,60): warning C4267: 'argumento': conversão de 'size_t' para 'GLsizei', possível perda de dados
+C:\Dev\TrabalhoGB\TrabalhoGA\src\Origem.cpp(217,21): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Dev\TrabalhoGB\TrabalhoGA\src\Origem.cpp(222,21): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Dev\TrabalhoGB\TrabalhoGA\src\Origem.cpp(228,21): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  TrabalhoGA.vcxproj -> C:\Dev\TrabalhoGB\x64\Debug\TrackerMacker.exe

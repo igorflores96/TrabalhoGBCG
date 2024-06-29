@@ -1,0 +1,5 @@
+﻿  Origem.cpp
+Origem.obj : error LNK2019: símbolo externo não resolvido, _glfwInit, referenciado na função _main
+C:\Dev\TrabalhoGA\intermediate\GLFW\lib-vc2022\glfw3.lib : warning LNK4272: o tipo de máquina da biblioteca 'x64' está em conflito com o tipo de máquina de destino 'x86'
+C:\Dev\TrabalhoGA\intermediate\GLEW\lib\x64\glew32.lib : warning LNK4272: o tipo de máquina da biblioteca 'x64' está em conflito com o tipo de máquina de destino 'x86'
+C:\Dev\TrabalhoGA\Debug\TrabalhoGA.exe : fatal error LNK1120: 1 externo não resolvidos

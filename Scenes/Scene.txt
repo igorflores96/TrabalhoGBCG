@@ -1,0 +1,2 @@
+#tag objName canDraw canDestroy x y z
+obj pyramid.obj 1 1 320.0 240.0 0.0
